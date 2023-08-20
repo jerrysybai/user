@@ -9,4 +9,5 @@ return {
   { import = "astrocommunity.pack.python"},
   { import = "astrocommunity.pack.bash"},
   { import = "astrocommunity.pack.yaml"},
+  { import = "astrocommunity.pack.markdown"},
 }
