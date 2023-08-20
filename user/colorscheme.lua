@@ -1,0 +1,3 @@
+-- Set ColorScheme
+
+return "catppuccin"
